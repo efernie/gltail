@@ -51,3 +51,7 @@ Installation instructions (Windows):
   shipped with your version of Windows do not include this, and it can be installed by
   getting the latest drivers from your graphics card vendor)
 
+- bundle gem gltail
+- bundle install
+- gem build gltail.gemspec ?
+- have to comment out command in the config file when testing locally
